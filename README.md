@@ -9,12 +9,12 @@ Mỗi dòng là một nốt nhạc và thời gian ngân (ms), phân tách bằn
 
 Ví dụ:
 
-C4,200
-E4,200
-G4,400
-REST,100
+C4,200 
+E4,200 
+G4,400 
+REST,100 
 
-## 🇬🇧 ENGLISH
+## ENGLISH
 
 A lightweight store for text-based music files compatible with the **MIDI Player** app on **Bruce Firmware**.
 
@@ -23,7 +23,7 @@ Each line consists of a **Note Name** and **Duration (in milliseconds)**, separa
 
 Example:
 
-C4,200
-E4,200
-G4,400
-REST,100
+C4,200 
+E4,200 
+G4,400 
+REST,100 
