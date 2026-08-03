@@ -1,6 +1,6 @@
 # 🎵 MIDI Store for Bruce Devices
 
-> 🌍 **English** | **Tiếng Việt** (Scroll down for Vietnamese / Cuộn xuống để xem bản tiếng Việt)
+> 🌍 **English** | **Tiếng Việt** (Scroll down for English / Cuộn xuống để xem bản tiếng Anh)
 
 Kho chứa nhạc định dạng text đơn giản cho ứng dụng MIDI Player trên Bruce Firmware.
 
