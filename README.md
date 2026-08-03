@@ -1,5 +1,4 @@
 # 🎵 MIDI Store for Bruce Devices
-# 🎵 MIDI Store for Bruce JS Player
 
 > 🌍 **English** | **Tiếng Việt** (Scroll down for Vietnamese / Cuộn xuống để xem bản tiếng Việt)
 
